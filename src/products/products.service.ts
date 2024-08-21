@@ -52,7 +52,6 @@ export class ProductsService extends PrismaClient implements OnModuleInit {
       });
     }
 
-    const asd;
     return product;
   }
 
